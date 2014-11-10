@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MELI Persistence Training</string>
+    <string name="action_settings">Settings</string>
+    <string name="greeting">Hola</string>
+    <string name="new_nickname_hint">Ingresa nuevo apodo</string>
+    <string name="done_button_text">Guardar</string>
+    <string name="add_button_text">Agregar</string>
+    <string name="new_note_hint">Ingresa una nota</string>
+    <string name="notes_title">Notas</string>
+
+</resources>
