@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.0"
 
     defaultConfig {
-        applicationId "persistancetraining.melitraining.com.java.androidtest.persistancetraining"
+        applicationId "com.melitraining.persistence"
         minSdkVersion 17
         targetSdkVersion 21
         versionCode 1
