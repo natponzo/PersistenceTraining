@@ -1,4 +1,4 @@
-package persistancetraining.melitraining.com.java.androidtest.persistancetraining;
+package com.melitraining.persistence;
 
 import android.app.Activity;
 import android.os.Bundle;
